@@ -6,3 +6,11 @@
 2017/05/23 14:41:10 [emerg] 23649#23649: bind() to 0.0.0.0:8000 failed (98: Address already in use)
 2017/05/23 14:41:10 [emerg] 23649#23649: still could not bind()
 2017/05/23 15:01:54 [error] 23678#23678: *3 open() "/work/openesty-test/demo/index2.html" failed (2: No such file or directory), client: 58.248.19.70, server: localhost, request: "GET /index2.html HTTP/1.1", host: "47.93.56.171:8000", referrer: "http://47.93.56.171:8000/"
+2017/05/23 15:07:06 [error] 23678#23678: *6 open() "/work/openesty-test/demo/cache/global/img/gs.gif" failed (2: No such file or directory), client: 80.82.78.38, server: localhost, request: "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1", host: "www.baidu.com"
+2017/05/23 15:23:58 [emerg] 23758#23758: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/05/23 15:23:58 [emerg] 23758#23758: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/05/23 15:23:58 [emerg] 23758#23758: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/05/23 15:23:58 [emerg] 23758#23758: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/05/23 15:23:58 [emerg] 23758#23758: bind() to 0.0.0.0:8000 failed (98: Address already in use)
+2017/05/23 15:23:58 [emerg] 23758#23758: still could not bind()
+2017/05/23 15:24:05 [notice] 23760#23760: signal process started
